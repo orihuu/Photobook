@@ -23,6 +23,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "orihuu",
+      "name": "Ori",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81810945?v=4",
+      "profile": "https://github.com/orihuu",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
